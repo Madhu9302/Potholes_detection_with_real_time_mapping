@@ -1,0 +1,1 @@
+597: label = _RLBLS[ri] + (" ✅ RECOMMENDED" if safe else "")
