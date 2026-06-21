@@ -4,7 +4,7 @@ plotly==6.8.0
 folium==0.20.0
 streamlit-folium==0.27.2
 pillow==11.3.0
-opencv-python==4.10.0.84
+opencv-python-headless==4.12.0.88
 ultralytics==8.3.236
 polyline==2.0.4
 streamlit-js-eval==1.0.0
