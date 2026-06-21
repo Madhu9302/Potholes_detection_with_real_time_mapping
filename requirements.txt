@@ -1,14 +1,14 @@
 streamlit==1.56.0
-pandas==3.0.3
+pandas==2.2.3
 plotly==6.8.0
 folium==0.20.0
 streamlit-folium==0.27.2
 pillow==11.3.0
-opencv-python-headless==4.12.0.88
+opencv-python-headless==4.10.0.84
 ultralytics==8.3.236
 polyline==2.0.4
 streamlit-js-eval==1.0.0
 streamlit-autorefresh==1.0.1
-numpy>=1.24.0
 streamlit-webrtc==0.47.9
 av>=10.0.0
+numpy==2.2.6
