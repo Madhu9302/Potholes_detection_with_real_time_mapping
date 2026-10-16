@@ -81,7 +81,6 @@ The GPS interface supports browser-based location capture and manual coordinate 
 
 ![GPS Integration](gps_integration.jpeg)
 
-> Make sure both screenshots are uploaded to the `screenshots/` folder in this repository. The filenames must match the paths used above.
 
 ## Technology Stack
 
