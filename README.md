@@ -255,7 +255,3 @@ These are potential improvements and should not be considered completed features
 
 **Madhu Patel**  
 B.Tech in Data Science
-
-## Disclaimer
-
-This project is intended for academic and demonstration purposes. Detection results, location information, and route-risk estimates may contain errors. They should be verified before being used for road maintenance or navigation decisions.
