@@ -73,13 +73,13 @@ The management interface provides access to stored pothole records and supported
 
 The Smart Route Planner displays a route on an interactive map. Different route segments are visualized with colors to help users inspect the selected route.
 
-![Smart Route Planner](screenshots/smart_route_planner.png)
+![Smart Route Planner](smart_route_planner.jpeg)
 
 ### GPS Integration
 
 The GPS interface supports browser-based location capture and manual coordinate input for testing location functionality.
 
-![GPS Integration](screenshots/gps_integration.png)
+![GPS Integration](gps_integration.jpeg)
 
 > Make sure both screenshots are uploaded to the `screenshots/` folder in this repository. The filenames must match the paths used above.
 
